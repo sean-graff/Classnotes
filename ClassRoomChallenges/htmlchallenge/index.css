@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+h1 {
+    font-weight: bold;
+    color: purple;
+    text-align: center;
+
+}
+
+p {
+    color: green;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+.col{
+    float: left;
+    width: 50%;
+    flex: 50%;
+
+}
+
